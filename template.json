@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "sites_webApp_r5ittiuitxduc_name": {
-            "defaultValue": "webApp-r5ittiuitxduc",
+            "defaultValue": "webApp-riya",
             "type": "String"
         },
         "serverfarms_AppServicePlan_webApp_r5ittiuitxduc_externalid": {
